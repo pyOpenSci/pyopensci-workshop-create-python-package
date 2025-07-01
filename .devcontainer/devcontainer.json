@@ -11,7 +11,7 @@
 		"ghcr.io/devcontainers-extra/features/hatch:2.0.18": {
 			"version": "1.14.1"
 		},
-		"ghcr.io/prulloac/devcontainer-features/pre-commit:2.0.18": {
+		"ghcr.io/devcontainers-extra/features/pre-commit:2.0.18": {
 			"version": "4.2.0"
 		},
 		"ghcr.io/devcontainers-extra/features/black:2.0.18": {
