@@ -20,10 +20,13 @@
 		"ghcr.io/devcontainers-extra/features/isort:2.0.18": {
 			"version": "6.0.1"
 		},
-		"ghcr.io/rocker-org/devcontainer-features/miniforge:2.0.1": {
-			"version": "25.3.0-3",
+		"ghcr.io/rocker-org/devcontainer-features/miniforge:2": {
+			"version": "latest",
 			"variant": "Miniforge3"
-		}
+		},
+		"ghcr.io/va-h/devcontainers-features/uv:1": {
+			"version": "0.7.19"
+		},
 	},
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
