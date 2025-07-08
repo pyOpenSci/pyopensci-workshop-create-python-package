@@ -1,26 +1,33 @@
-# <img src="https://www.pyopensci.org/images/logo.png" width=100 />  SciPy 2025 workshop: Create a Python Package
+# Welcome to billy-create-py-package
 
-This workshop is developed for the [pyOpenSci in-person packaging workshop at the 
-SciPy meeting in Tacoma, Washington 2025](https://cfp.scipy.org/scipy2025/talk/Z3VBWR/).
+|        |        |
+|--------|--------|
+| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/billy-create-py-package.svg)](https://pypi.org/project/billy-create-py-package/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/billy-create-py-package.svg)](https://pypi.org/project/billy-create-py-package/)  |
+| Meta   | [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) |
 
-## Getting started
-Before the workshop, be sure that you read our setup instructions on our [events 
-page here](https://www.pyopensci.org/events/pyopensci-scipy25-create-python-package-workshop.html). 
+*TODO: the above badges that indicate python version and package version will only work if your package is on PyPI.
+If you don't plan to publish to PyPI, you can remove them.*
 
-You will need a GitHub and a testPyPI account to follow along. 
+billy-create-py-package is a project that (describe what it does here).
 
-## GitHub Codespaces
+## Get started
 
-We have GitHub Codespaces configured for this workshop. To be successful during 
-the workshop, we suggest that you fork and open a codespace prior to attending
-the workshop to ensure the enviornment loads properly. The initial codespace build can take up to 15 minutes. 
+You can install this package into your preferred Python environment using pip:
 
-The link above provides you with instructions 
-one how to do this and how to setup the accounts you need for the workshop.
+```bash
+$ pip install billy-create-py-package
+```
 
-## Creating your package
+TODO: Add a brief example of how to use the package to this section
 
-To use the copier template, follow the [tutorial here](https://www.pyopensci.org/python-package-guide/tutorials/create-python-package.html) that walks you through the steps.
-The command to run the copier template is:
+To use billy-create-py-package in your code:
 
-`copier copy gh:pyopensci/pyos-package-template .`
+```python
+>>> import billy-create-py-package
+>>> billy-create-py-package.hello_world()
+```
+
+## Copyright
+
+- Copyright © 2025 billy.
+- Free software distributed under the [MIT License](./LICENSE).
