@@ -32,7 +32,7 @@ classifiers = [
 ]
 
 keywords = ["numerical data", "analysis"]
-dependencies = ["numpy>=2.0", "scikit-learn"]
+dependencies = []
 
 [project.urls]
 Homepage = "https://github.com/lwasser/pyospackage_juno"
