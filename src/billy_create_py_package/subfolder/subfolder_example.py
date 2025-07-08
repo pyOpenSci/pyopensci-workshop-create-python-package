@@ -1,2 +1,2 @@
 def testo():
-    print("Holahola!")
+    print("Holahola.")
