@@ -1,24 +1,33 @@
-# <img src="https://www.pyopensci.org/images/logo.png" width=100 />  pyOpenSci: Create a Python Package Workshop Repository
+# Welcome to pyos_package_lukesherman
 
-This repository supports pyOpenSci workshops focused on Python packaging.
+|        |        |
+|--------|--------|
+| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyos_package_lukesherman.svg)](https://pypi.org/project/pyos_package_lukesherman/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyos_package_lukesherman.svg)](https://pypi.org/project/pyos_package_lukesherman/)  |
+| Meta   | [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) |
 
-## Getting started
-Before the workshop, be sure that you read the setup instructions that you recieved in an email. 
+*TODO: the above badges that indicate python version and package version will only work if your package is on PyPI.
+If you don't plan to publish to PyPI, you can remove them.*
 
-You will need a GitHub and a testPyPI account to follow along. 
+pyos_package_lukesherman is a project that (describe what it does here).
 
-## GitHub Codespaces
+## Get started
 
-We have GitHub Codespaces configured for this workshop. To be successful during 
-the workshop, we suggest that you fork and open a codespace prior to attending
-the workshop to ensure the enviornment loads properly. The initial codespace build can take up to 15 minutes. 
+You can install this package into your preferred Python environment using pip:
 
-The link above provides you with instructions 
-one how to do this and how to setup the accounts you need for the workshop.
+```bash
+$ pip install pyos_package_lukesherman
+```
 
-## Creating your package
+TODO: Add a brief example of how to use the package to this section
 
-To use the copier template, follow the [tutorial here](https://www.pyopensci.org/python-package-guide/tutorials/create-python-package.html) that walks you through the steps.
-The command to run the copier template is:
+To use pyos_package_lukesherman in your code:
 
-`copier copy gh:pyopensci/pyos-package-template .`
+```python
+>>> import pyos_package_lukesherman
+>>> pyos_package_lukesherman.hello_world()
+```
+
+## Copyright
+
+- Copyright © 2025 lukesherman.
+- Free software distributed under the [MIT License](./LICENSE).
