@@ -26,7 +26,9 @@
 	},
 	"extensions": [
 		"ms-vscode.live-server",
-	]
+	],
+	// Use 'postStartCommand' to configure a shorter terminal prompt for Codespaces.
+	"postStartCommand": "grep -qxF \"export PS1='\\\\W\\\\$ '\" ~/.bashrc || echo \"export PS1='\\\\W\\\\$ '\" >> ~/.bashrc"
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
