@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "ncclementi",
+      "name": "Naty Clementi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7526622?v=4",
+      "profile": "https://github.com/ncclementi",
+      "contributions": [
+        "code",
+        "review",
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "pyopensci-workshop-create-python-package",
+  "projectOwner": "pyOpenSci"
+}
