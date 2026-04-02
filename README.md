@@ -1,4 +1,7 @@
 # <img src="https://www.pyopensci.org/images/logo.png" width=100 />  pyOpenSci: Create a Python Package Workshop Repository
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository supports pyOpenSci workshops focused on Python packaging.
 
@@ -22,3 +25,25 @@ To use the copier template, follow the [tutorial here](https://www.pyopensci.org
 The command to run the copier template is:
 
 `copier copy gh:pyopensci/pyos-package-template .`
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ncclementi"><img src="https://avatars.githubusercontent.com/u/7526622?v=4?s=100" width="100px;" alt="Naty Clementi"/><br /><sub><b>Naty Clementi</b></sub></a><br /><a href="https://github.com/pyOpenSci/pyopensci-workshop-create-python-package/commits?author=ncclementi" title="Code">💻</a> <a href="https://github.com/pyOpenSci/pyopensci-workshop-create-python-package/pulls?q=is%3Apr+reviewed-by%3Ancclementi" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/pyOpenSci/pyopensci-workshop-create-python-package/issues?q=author%3Ancclementi" title="Bug reports">🐛</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
