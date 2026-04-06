@@ -6,18 +6,20 @@
 This repository supports pyOpenSci workshops focused on Python packaging.
 
 ## Getting started
-Before the workshop, be sure that you read the setup instructions that you recieved in an email. 
+Before the workshop, be sure that you read the setup instructions that you received in an email.
 
-You will need a GitHub and a testPyPI account to follow along. 
+You will need a GitHub and a testPyPI account to follow along.
 
 ## GitHub Codespaces
 
-We have GitHub Codespaces configured for this workshop. To be successful during 
-the workshop, we suggest that you fork and open a codespace prior to attending
-the workshop to ensure the enviornment loads properly. The initial codespace build can take up to 15 minutes. 
+We have GitHub Codespaces configured for this workshop. To use this repository and the dev container associated with it in a workshop, instructor your learners to  create a new repository 
+as a template using this repo. 
+
+Open a codespace prior to attending
+the workshop to ensure the environment loads properly. The initial codespace build can take up to 15 minutes.
 
 The link above provides you with instructions 
-one how to do this and how to setup the accounts you need for the workshop.
+on how to do this and how to setup the accounts you need for the workshop.
 
 ## Creating your package
 
