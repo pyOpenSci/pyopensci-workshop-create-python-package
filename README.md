@@ -15,6 +15,9 @@ You will need a GitHub and a testPyPI account to follow along.
 We have GitHub Codespaces configured for this workshop. To use this repository and the dev container associated with it in a workshop, instructor your learners to  create a new repository 
 as a template using this repo. 
 
+![use-template](https://github.com/user-attachments/assets/c4778b46-70dc-4d3e-86d5-b1bd50f8d183)
+
+
 Open a codespace prior to attending
 the workshop to ensure the environment loads properly. The initial codespace build can take up to 15 minutes.
 
