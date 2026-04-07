@@ -46,14 +46,14 @@ export PS1="$ "
 ```
 
 ```console
-# Disable keyring when publishing to Py
+# Disable keyring. You need to do this in codesppaces only when publishing to PyPI using Hatch.
 export PYTHON_KEYRING_BACKEND=keyring.backends.null.Keyring 
 ```
 
 ### Create your package
 
 ```bash
-# Call the pyOpenSci template
+# Call the pyOpenSci package template
 copier copy gh:pyOpenSci/pyos-package-template .
 ```
 
@@ -64,7 +64,7 @@ copier copy gh:pyOpenSci/pyos-package-template .
 uv run python 
 # Add package dependency 
 uv add numpy 
-# Remove packagedependency
+# Remove package dependency
 uv remove numpy    
 # Add a development dependency
 uv add --dev pytest 
@@ -74,9 +74,9 @@ uv add --dev pytest
 ### Hatch environments
 
 ```bash
-# see all Hatch environments and scripts
+# View all Hatch environments and scripts
 hatch env show                       
-# build + check your package with twine
+# build your package; check your package distribution files using twine
 hatch run build:check                
 # Run test suite with coverage (across Python versions)
 hatch run test:run                   
